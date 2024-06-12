@@ -12,10 +12,12 @@ Locate the Script
 Ensure the script IRLinuxInvestigation.sh is on the system where it needs to run.
 
 Make the Script Executable
+
 chmod +x IRLinuxInvestigation.sh
 
 Run the Script
 Execute as root:
+
 sudo ./IRLinuxInvestigation.sh
 
 Follow prompts to enter your password.
